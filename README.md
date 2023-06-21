@@ -1,6 +1,7 @@
 ## 欢迎你来到这里 Welcome  
 
-- 🕹️我热爱 Minecraft并致力于 `NBT`编辑可视化。 I Love Minecraft and Work On `NBT` Editing Visualizations.
+- 🕹️我热爱 Minecraft并致力于`NBT`编辑可视化。  
+I Love Minecraft and Work On `NBT` Editing Visualizations.
 
 - 📮邮箱 Email: (ghost_t_l@163.com)  
 - 💻苦力怕论坛 klpbbs: [@JustBeginner](https://klpbbs.com/space-uid-1080492.html)
